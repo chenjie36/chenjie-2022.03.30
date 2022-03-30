@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "type": "moblie",
+    "src": "/img/moblie.png"
+  },
+  {
+    "id": "2",
+    "type": "ipad",
+    "src": "/img/ipad.jpg"
+  },
+  {
+    "id": "3",
+    "type": "pc",
+    "src": "/img/PC.jpg"
+  }
+]
